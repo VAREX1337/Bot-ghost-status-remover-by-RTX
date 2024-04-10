@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🚀 Vacant Discord | Shard482","🚀 Vacant Discord | Shar752","🚀 Vacant Discord | Shard1046","🚀 Vacant Discord | Shard982","🚀 Vacant Discord | Shard1453"];
+const statusMessages = ["🚀 Vacant Discord | Shard482","🚀 Vacant Discord | Shard752","🚀 Vacant Discord | Shard1046","🚀 Vacant Discord | Shard982","🚀 Vacant Discord | Shard1453"];
 
 
 let currentIndex = 0;
